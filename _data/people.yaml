@@ -1,0 +1,23 @@
+# ##############################################################################
+# Authors List
+# ------------------------------------------------------------------------------
+# This YAML data file contains entry for each author involved in the work
+# This YAML data file contains information for each author of the work. The 
+# author list will be generated in the order in which they are listed below. 
+# You can  add additional fields to each person, but these will not show up
+# automatically and must then be included manually in the Liquid template code 
+# of the `page01_people.md` file.
+# ##############################################################################
+- author:
+  name: Rob Phillips
+  link: "https://www.rpgroup.caltech.edu/"
+  title: Instructor
+  img: rob.jpg
+  Email Address: "phillips [at] pboc.caltech [dot] edu"
+
+- author:
+  name: Ana Duarte
+  img: aduarte.jpg
+  title: TA 
+  Email Adress: aduarte [at] caltech [dot] edu
+
