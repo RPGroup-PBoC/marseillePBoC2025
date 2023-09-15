@@ -15,11 +15,12 @@ All information is scraped from the _data/readings.yaml and _data/links.yaml.
 Edit those to update the website
 -->
 
+
 {% for day in site.data.readings %}
 ## {{day[0]}}
 {% for pub in day[1] %}
-* [**{{pub.title}}**]({{site.baseurl}}/assets/pdfs/{{pub.link}}) by
-  <i>{{pub.authors}}</i> ({{pub.year}}) {%if pub.description
+* <a href="{{site.baseurl}}/assets/pdfs/{{pub.link}}" target="_blank">**{{pub.title}}** by
+  <i>{{pub.authors}}</i> ({{pub.year}})</a> {%if pub.description
   %}{{pub.description}}{%endif%}
 {%endfor%}
 {%endfor%}
@@ -31,6 +32,6 @@ Edit those to update the website
 ---
 
 {%for link in site.data.links%}
-* [**{{link.title}}**]({{link.address}}) {%if link.description %}{{link.description}}{%endif%}
+* <a href="{{link.address}}" target="_blank">**{{link.title}}**</a> {%if link.description %}{{link.description}}{%endif%}
 {%endfor%}
 
