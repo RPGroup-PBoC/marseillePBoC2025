@@ -13,18 +13,4 @@ Tutorials:
 
 
 Exercises:
-  - script:
-    title: Tutorial 1 -- Basic Image Processing and Counting Elephants from Space
-    colab: "https://colab.research.google.com/drive/19Bot80lWeq5hVIhquWClXYF2ajcjjz_R#scrollTo=c5VlpVlVdCsw"
-    description: >
-      In this exercise, we learn some simple techniques of quantitative image processing and try to count elephants in two satellite images.
-    links:
-      #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
-      Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
-      Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
-  - script:
-    title: Gliding Assay Analysis
-    colab: "https://colab.research.google.com/drive/19Bot80lWeq5hVIhquWClXYF2ajcjjz_R?usp=sharing#scrollTo=2qf0cch9cvzf"
-    description: >
-      This tutorial details how to extract motor speeds from microtubule gliding images.
-    
+ 
