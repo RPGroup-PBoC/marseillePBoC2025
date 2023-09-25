@@ -16,6 +16,10 @@
 <loc>http://localhost:4000/code</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/pdfs/BioNum.pdf</loc>
+<lastmod>2023-09-25T11:54:28+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/pdfs/PBOC_url.pdf</loc>
 <lastmod>2023-09-25T10:36:58+02:00</lastmod>
 </url>
