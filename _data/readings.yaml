@@ -1,4 +1,31 @@
-#Day 1:
+Day 1:
+ - pub:
+   title: Physical Biology of the Cell YouTube Channel.
+   authors: Rob Phillips.
+   year: 2021
+   link: PBOC_url.pdf
+   description: >
+      Rob's collection of pre-recorded vignettes. (Note: clicking the link opens a pdf containing a followable url <https://www.youtube.com/@physicalbiologyofthecellca307/videos>)
+
+ - pub:
+   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
+   authors: Sam Roberts.
+   year: 2023
+   link: Payne_Obituary.pdf
+   description: >
+      New York Times Obituary for influential biologist Roger Payne.
+# - extra:
+#   exurl: https://youtu.be/9P5aJ5GVpP8
+#   extitle: Molecules as documents of evolutionary history (16:07)
+#   exdesc: This vignette describes the use of DNA sequences as a tool for studying the history of life.
+# - pub:
+#   title: More Is Different.
+#   authors: Phil Anderson.
+#   year: 1972
+#   link: anderson1972.pdf
+#   description: >
+#      This very influential paper discusses the importance of different levels of reductionism when thinking of problems at various scales.
+
 # - pub:
 #   title: More Is Different.
 #   authors: Phil Anderson.
