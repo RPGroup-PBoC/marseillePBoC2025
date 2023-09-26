@@ -45,6 +45,14 @@ Day 2:
    year: 1972
    link: nothing_sense.pdf
    description: >
+   
+ - pub:
+   title: "Models in biology: \"accurate descriptions of our pathetic thinking\""
+   authors: Jeremy Gunawardena
+   year: 2014
+   link: Gunawardena2014.pdf
+   description: >
+      A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
       
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
