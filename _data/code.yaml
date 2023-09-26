@@ -15,13 +15,19 @@ Tutorials:
 Exercises:
 
   - script:
-    title: Tutorial 1
+    title: Exercise 1
     colab: "http://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html"
     description: >
           Exponential growth numerical integration by Forward Euler
       
   - script:
-    title: Tutorial 2
+    title: Exercise 2
     colab: "https://colab.research.google.com/drive/1YESNlwde1row01quv7KPwlGEusS1_9qU"
     description: >
           Bacterial growth image segmentation and linear regression
+    
+  - script:
+    title: Exercise 3
+    colab: "https://colab.research.google.com/drive/1Lg0HKBgAo83DrUV1MNLqP3psfJp5u1HJ?usp=sharing"
+    description: >
+          Integrating Differential Equations - mRNA production

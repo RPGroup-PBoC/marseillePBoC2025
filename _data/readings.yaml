@@ -29,6 +29,23 @@ Day 1:
    link: Payne_Obituary.pdf
    description: >
       New York Times Obituary for influential biologist Roger Payne.
+
+Day 2:
+ - pub:
+   title: In Memoriam - Jacques Monod (1910–1976).
+   authors: Agnes Ullmann.
+   year: 2011
+   link: MonodMemorium.pdf
+   description: >
+      A memorium for Jacques Monod and his musings upon the secret of life.
+      
+ - pub:
+   title: Nothing in Biology makes Sense but in the Light of Evolution
+   authors: Theodosius Dobzhansky
+   year: 1972
+   link: nothing_sense.pdf
+   description: >
+      
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
 #   extitle: Molecules as documents of evolutionary history (16:07)
