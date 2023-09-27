@@ -32,7 +32,7 @@ Day 1:
 
 Day 2:
  - pub:
-   title: In Memoriam - Jacques Monod (1910–1976).
+   title: "In Memoriam: Jacques Monod (1910–1976)."
    authors: Agnes Ullmann.
    year: 2011
    link: MonodMemorium.pdf
@@ -53,7 +53,23 @@ Day 2:
    link: Gunawardena2014.pdf
    description: >
       A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
-      
+
+Day 3:
+ - pub:
+   title: "Superresolution imaging of ribosomes and RNA polymerasein liveEscherichia colicells"
+   authors: Bakshi et al.
+   year: 2012
+   link: Bakshi2012.pdf
+   description: >
+   
+ - pub:
+   title: "Are theoretical results 'Results'?"
+   authors: "Raymond E Goldstein"
+   year: 2018
+   link: Goldstein2018.pdf
+   description: >
+
+
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
 #   extitle: Molecules as documents of evolutionary history (16:07)
