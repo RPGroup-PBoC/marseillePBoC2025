@@ -53,6 +53,14 @@ Day 2:
    link: Gunawardena2014.pdf
    description: >
       A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
+      
+ - pub:
+   title: "Efficient Estimation of Word Representations in Vector Space"
+   authors: Mikolov et al.
+   year: 2013
+   link: Mikolovword2vec.pdf
+   description: >
+   
 
 Day 3:
  - pub:
