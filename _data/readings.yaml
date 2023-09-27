@@ -77,6 +77,14 @@ Day 3:
    description: >
      A study of how often neighborhoods in London were hit by bombs during the second world war.
 
+ - pub:
+   title: Migration of Proteins along the Axons of the Sciatic Nerve
+   authors: Droz et al.
+   year: 1957
+   link: Droz1957.pdf
+   description: >
+     
+
 
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
