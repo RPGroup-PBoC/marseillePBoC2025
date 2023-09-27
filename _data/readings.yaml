@@ -69,6 +69,14 @@ Day 3:
    link: Goldstein2018.pdf
    description: >
 
+ - pub:
+   title: An Application of the Poisson Distribution
+   authors: R. D. Clarke
+   year: 1946
+   link: london_bombs.pdf
+   description: >
+     A study of how often neighborhoods in London were hit by bombs during the second world war.
+
 
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
