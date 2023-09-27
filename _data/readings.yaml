@@ -83,7 +83,14 @@ Day 3:
    year: 1957
    link: Droz1957.pdf
    description: >
-     
+   
+ - pub:
+   title: "Robert Brown's Discovery of Brownian Motion"
+   authors: Robert Brown
+   year: 1828
+   link: Brown1828.pdf
+   description: >
+      "A brief account of microscopical observations made in the months of June, July and August 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies"
 
 
 # - extra:
