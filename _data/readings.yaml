@@ -114,7 +114,15 @@ Day 4:
    year: 1939
    link: useful_useless.pdf
    description: >
-
+   
+ - pub:
+   title: "Allan Wilson: Evolutionary"
+   authors: nzonscreen.
+   year: 2008
+   link: Allan_Wilson.pdf
+   description: >
+     A documentary on the revolutionary evolutionary biologies, Allan Wilson. (<https://www.nzonscreen.com/title/allan-wilson-evolutionary-2008/overview>)
+   
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
 #   extitle: Molecules as documents of evolutionary history (16:07)
