@@ -38,3 +38,9 @@ Exercises:
     description: >
           Diffusion Coin Flips
           
+  - script:
+    title: Exercise 5
+    colab: "https://colab.research.google.com/drive/1fWn4XpSItS7_G80OPRzvOmQBxw2i7hSN#scrollTo=mmCUWO9TcHOi"
+    description: >
+          Diffusion with the Chemical Master Equation and the application to FRAP
+          
