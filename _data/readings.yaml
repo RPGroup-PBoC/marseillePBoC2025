@@ -64,7 +64,7 @@ Day 2:
 
 Day 3:
  - pub:
-   title: "Superresolution imaging of ribosomes and RNA polymerasein liveEscherichia colicells"
+   title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
    authors: Bakshi et al.
    year: 2012
    link: Bakshi2012.pdf
@@ -105,6 +105,14 @@ Day 3:
    authors: Mohapatra et al.
    year: 2016
    link: Mohapatra2016.pdf
+   description: >
+
+Day 4:
+ - pub:
+   title: "The usefulness of useless knowledge"
+   authors: Abraham Flexner.
+   year: 1939
+   link: useful_useless.pdf
    description: >
 
 # - extra:
