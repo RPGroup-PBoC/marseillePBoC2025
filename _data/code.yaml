@@ -44,3 +44,9 @@ Exercises:
     description: >
           Diffusion with the Chemical Master Equation and the application to FRAP
           
+  - script:
+    title: Exercise 6
+    colab: "https://colab.research.google.com/drive/1gKql2CblZn78NE9vYPfa6Oqk7dKaNcVv#scrollTo=ZJSalfsTItlp"
+    description: >
+          Spheres in N-dimensions
+        
