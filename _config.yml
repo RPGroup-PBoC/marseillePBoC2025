@@ -1,13 +1,13 @@
 title: PBoC@Marseille
 description: > 
-  A one-sentence description of the course
+  Explore how cells obey and exploit physical principles for biological function.
 
 data_url: "http://rpdata.caltech.edu/courses/course_name/course_year/"
 
 
 # You can include a logo for your work as a .png that is saved in the folder 
 social-github: RPGroup-PBoC # add your Github handle here.
-# author-img: logo.png # Comment this line out if you don't want a logo. if
+author-img: pbocAtMarseilleLogo_gsal.svg # Comment this line out if you don't want a logo. if
                      # absent, text will replace the logo postition.
 
 
