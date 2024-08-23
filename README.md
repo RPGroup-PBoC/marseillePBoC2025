@@ -1,4 +1,8 @@
-# Reproducible Research Website Template
+![marseilleLogo](/assets/img/pbocAtMarseilleLogo_gsal.svg)
+# `2024` (contains some whimsical style ∆s)
+
+____
+## Reproducible Research Website Template
 This repository is a bare-bones template website for publishing of your work as
 an interactive website. It's tailored for easy inclusion of data files, plots,
 and interactive figures. It is a heavily modified form of the Jekyll template
