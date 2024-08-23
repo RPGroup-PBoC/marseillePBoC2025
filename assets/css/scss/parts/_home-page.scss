@@ -41,17 +41,15 @@
     color: $dark;
     font-weight: 700;
     &::after {
-      content: "";
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-      bottom: 0;
-      display: block;
-      width: 7px;
-      height: 7px;
-      border-radius: 100%;
-      background-color: $body-color;
-    }
+    content: "∮";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    display: block;
+    font-size: 16px;  /* Adjust the size as needed */
+    color: $body-color;  /* Use the same color or change it */
+}
   }
   p {
     font-size: 16px;
