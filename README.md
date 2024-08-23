@@ -1,6 +1,8 @@
-<div style="text-align: center;">
-  <img src="/assets/img/pbocAtMarseilleLogo_gsal.svg" alt="Logo" width="150">
-</div>
+<center>
+  <img src="/assets/img/pbocAtMarseilleLogo_gsal.svg" alt="Logo" width="350">
+</center>
+
+____
 # `2024` (contains some whimsical style ∆s)
 
 ____
