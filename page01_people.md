@@ -2,8 +2,8 @@
 layout: page
 title: People
 description: About the authors
-img: people.png 
-caption: "T4 Bacteriophage"
+img: people.jpg
+caption: "Gaston La Touche"
 permalink: people
 sidebar: true
 ---
