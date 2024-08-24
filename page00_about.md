@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About & Syllabus
 description: 
 img: darwinPlantCircumnutation.svg
 caption: "after C. Darwin, 1896"
