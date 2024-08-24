@@ -3,7 +3,7 @@ layout: page
 title: About
 description: 
 img: darwinPlantCircumnutation.svg
-caption: "Darwin, 1896"
+caption: "after C. Darwin, 1896"
 permalink: index.html
 sidebar: true
 ---
@@ -21,8 +21,6 @@ sidebar: true
 {% endif %}
 {% endfor %}
 
-# When and Where
-
 # Syllabus
 <table>
 <tr>
@@ -38,3 +36,5 @@ sidebar: true
 </tr>
 {% endfor %}
 </table>
+
+# When and Where
