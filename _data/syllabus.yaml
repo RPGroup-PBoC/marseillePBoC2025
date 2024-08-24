@@ -1,24 +1,29 @@
 - day: Monday
-  date: 09/25/2023
+  date: 10/14/2024
   topic: >
-   Embracing the wonder and mystery of Life and assessing our quantitative literacy. Getting a feeling for the organism: what sets the scale of X? Street fighting mathematics and order of magnitude thinking.
+   A feeling for the organism.  What sets the scale of X?  Order of magnitude thinking as a tool for understanding the world.  Examples from the energy scale to form a spindle to the amount of poop created per year by whales.
 
 - day: Tuesday
-  date: 09/26/2023
+  date: 10/15/2024
   topic: >
-   Biological dynamics through update rules. Stuff(t).
+   Stuff of t and biology’s unique laws of dynamics.  Dynamical phenomena in both the nonliving and the living.  The great principles of dynamics and their biological consequences.  Biology’s unique answer to purposeful dynamics.
 
 - day: Wednesday
-  date: 09/27/2023
+  date: 10/16/2024
   topic: >
-   Biological null hypotheses and the great probability distributions. Gene expression and the constitutive promoter and Prussian soldiers getting kicked by horses. Diffusion as a null hypothesis for biological dynamics.
+   Making our guesses precise: null hypotheses.  When guesses become probability distributions.  The great distributions: binomial, Poisson, exponential and their important biological consequences.
    
 - day: Thursday
-  date: 09/28/2023
+  date: 10/17/2024
   topic: >
-    The secret of life and defying the call of entropy maximization. What are the batteries and who are the demons? How to transport sugar uphill and using graphs as the natural language of networks. Spending energy to make nearly one way arrows.
+    What is life?  Various musings on the secret of life. Defiance as the secret of life.  Biological batteries and paying for the processes of life.  Setting up membrane gradients. Biological fidelity.
 
 - day: Friday
-  date: 09/29/2023
+  date: 10/18/2024
   topic: >
-   Size control in biology. The grand challenges of understanding the living. Applying quantitative thinking to the Anthropocene. Reflections on physical biology.
+   Representing and Approximating Life.  Rethinking the idea of a vector: from Descartes (x,y) to ChatGPT. Weird vectors, from personality type to cell shape to fluorescence recovery after photobleaching experiments.
+
+- day: Saturday
+  date: 10/19/2024
+  topic: >
+  The Value and Values of Science.  The mystery of the world and the value of wonder.  Loving the questions.  Research as exploratory dynamics.  

@@ -2,8 +2,8 @@
 layout: page
 title: About
 description: 
-img: corona_virus_goodsell.jpg 
-caption: "Courtesy of David S. Goodsell"
+img: darwinPlantCircumnutation.svg
+caption: "Darwin, 1896"
 permalink: index.html
 sidebar: true
 ---
@@ -20,3 +20,21 @@ sidebar: true
 {% endif %}
 {% endif %}
 {% endfor %}
+
+# When and Where
+
+# Syllabus
+<table>
+<tr>
+    <th><b>Day</b></th>
+    <th><b>Date</b></th>
+    <th><b>Topic</b></th>
+</tr>
+{% for day in site.data.syllabus %}
+<tr>
+    <td>{{day.day}}</td>
+    <td>{{day.date}}</td>
+    <td>{{day.topic}}</td>
+</tr>
+{% endfor %}
+</table>
