@@ -16,37 +16,68 @@ Exercises:
 
   - script:
     title: Exercise 1
-    colab: "http://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html"
+    colab: #"http://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html"
     description: >
-          Exponential growth numerical integration by Forward Euler
-      
+          Exponential growth; numerical integration by Forward Euler
+
   - script:
     title: Exercise 2
-    colab: "https://colab.research.google.com/drive/1YESNlwde1row01quv7KPwlGEusS1_9qU"
+    colab: # integration: "https://colab.research.google.com/drive/18hPyTvop_GamA_Diiaqa-Wb1nqkJfL10?usp=sharing" 
     description: >
-          Bacterial growth image segmentation and linear regression
-    
+          mRNA dynamics: mean trajectories and full count distributions 
+          
   - script:
     title: Exercise 3
-    colab: "https://colab.research.google.com/drive/18hPyTvop_GamA_Diiaqa-Wb1nqkJfL10?usp=sharing"
+    colab: # stochastic diffusion: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"; #  Diffusion with the Chemical Master Equation and the application to FRAP: "https://colab.research.google.com/drive/1fWn4XpSItS7_G80OPRzvOmQBxw2i7hSN#scrollTo=mmCUWO9TcHOi"
     description: >
-          Integrating Differential Equations - mRNA production
+          Diffusion by Coin Flips; the Chemical Master Equation; FRAP; reset dynamics
           
   - script:
     title: Exercise 4
-    colab: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"
+    colab: Reset dynamics; basic machine learning; PCA
     description: >
-          Diffusion Coin Flips
+          
           
   - script:
     title: Exercise 5
-    colab: "https://colab.research.google.com/drive/1fWn4XpSItS7_G80OPRzvOmQBxw2i7hSN#scrollTo=mmCUWO9TcHOi"
+    colab: 
     description: >
-          Diffusion with the Chemical Master Equation and the application to FRAP
+          Selected topics: Dimensionality of behavior (eigenworms), representations. 
+
+##### 2023 offering instead had:
+  # - script:
+  #   title: Exercise 1
+  #   colab: "http://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html"
+  #   description: >
+  #         Exponential growth numerical integration by Forward Euler
+      
+  # - script:
+  #   title: Exercise 2
+  #   colab: "https://colab.research.google.com/drive/1YESNlwde1row01quv7KPwlGEusS1_9qU"
+  #   description: >
+  #         Bacterial growth image segmentation and linear regression
+    
+  # - script:
+  #   title: Exercise 3
+  #   colab: "https://colab.research.google.com/drive/18hPyTvop_GamA_Diiaqa-Wb1nqkJfL10?usp=sharing"
+  #   description: >
+  #         Integrating Differential Equations - mRNA production
           
-  - script:
-    title: Exercise 6
-    colab: "https://colab.research.google.com/drive/1gKql2CblZn78NE9vYPfa6Oqk7dKaNcVv#scrollTo=ZJSalfsTItlp"
-    description: >
-          Spheres in N-dimensions
+  # - script:
+  #   title: Exercise 4
+  #   colab: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"
+  #   description: >
+  #         Diffusion Coin Flips
+          
+  # - script:
+  #   title: Exercise 5
+  #   colab: "https://colab.research.google.com/drive/1fWn4XpSItS7_G80OPRzvOmQBxw2i7hSN#scrollTo=mmCUWO9TcHOi"
+  #   description: >
+  #         Diffusion with the Chemical Master Equation and the application to FRAP
+          
+  # - script:
+  #   title: Exercise 6
+  #   colab: "https://colab.research.google.com/drive/1gKql2CblZn78NE9vYPfa6Oqk7dKaNcVv#scrollTo=ZJSalfsTItlp"
+  #   description: >
+  #         Spheres in N-dimensions
         
