@@ -1,5 +1,13 @@
 Day 1:
  - pub:
+   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
+   authors: Sam Roberts.
+   year: 2023
+   link: Payne_Obituary.pdf
+   description: >
+      New York Times Obituary for influential biologist Roger Payne.
+
+ - pub:
    title: Physical Biology of the Cell YouTube Channel.
    authors: Rob Phillips.
    year: 2021
@@ -21,14 +29,6 @@ Day 1:
    link: BioNum.pdf
    description: >
       "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
-   
- - pub:
-   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
-   authors: Sam Roberts.
-   year: 2023
-   link: Payne_Obituary.pdf
-   description: >
-      New York Times Obituary for influential biologist Roger Payne.
 
 Day 2:
  - pub:
