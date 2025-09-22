@@ -38,11 +38,28 @@ sidebar: true
 </table>
 
 # When and Where
-<p>
-  <strong>Time:</strong> {{ site.data.whenwhere.time }}<br>
-  <strong>Location:</strong>
-  {% if site.data.whenwhere.map_url %}
-    <a href="{{ site.data.whenwhere.map_url }}">{{ site.data.whenwhere.location }}</a>
-  {% else %}
-    {{ site.data.whenwhere.location }}
-  {% endif %}
+Our first meeting will take place on **Monday, September 29th, 2025**: please arrive promptly at **9am** in the Hexagone buildin, Room Hexalab at the first floor. On Friday much will be provided by CENTURI and on Monday, we will have a welcoming coffee between 9h and 9h30 and a coffee break between 10h and 10h20.
+
+Each day will have a schedule roughly of the form:
+<table>
+<tr>
+    <th style="width:130px"><b>Time</b></th>
+    <th><b>Session</b></th>
+</tr>
+<tr>
+    <td><b>9h00</b> - 12h30</td>
+    <td>Lectures from Rob</td>
+</tr>
+<tr>
+    <td>12h30 - 13h30</td>
+    <td>Lunch Break</td>
+</tr>
+<tr>
+    <td>13h30 - 16h30 (will end at 15h on Friday)</td>
+    <td>Lectures from Rob</td>
+</tr>
+<tr>
+    <td>16h45 - 18h30 (15h15 - 17h on Friday)</td>
+    <td>Computation sessions with Sara</td>
+</tr>
+</table>
