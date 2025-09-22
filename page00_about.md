@@ -2,8 +2,8 @@
 layout: page
 title: About & Syllabus
 description: 
-img: darwinPlantCircumnutation.svg
-caption: "after C. Darwin, 1896"
+img: stem_cell.jpg
+caption: "National Institute of Neurological Disorders and Stroke/NIH"
 permalink: index.html
 sidebar: true
 ---

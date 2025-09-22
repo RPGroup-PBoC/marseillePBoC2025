@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Readings
-img: reading.png 
+img: books.jpg 
 permalink: readings
-caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---
 

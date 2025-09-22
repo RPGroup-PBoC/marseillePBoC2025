@@ -2,8 +2,8 @@
 layout: page
 title: People
 description: About the authors
-img: people.jpg
-caption: "Gaston La Touche"
+img: foule.jpg
+caption: "David Pluskwa"
 permalink: people
 sidebar: true
 ---
