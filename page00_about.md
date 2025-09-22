@@ -38,3 +38,11 @@ sidebar: true
 </table>
 
 # When and Where
+<p>
+  <strong>Time:</strong> {{ site.data.whenwhere.time }}<br>
+  <strong>Location:</strong>
+  {% if site.data.whenwhere.map_url %}
+    <a href="{{ site.data.whenwhere.map_url }}">{{ site.data.whenwhere.location }}</a>
+  {% else %}
+    {{ site.data.whenwhere.location }}
+  {% endif %}
