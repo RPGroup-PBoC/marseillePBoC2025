@@ -38,7 +38,7 @@ sidebar: true
 </table>
 
 # When and Where
-Our first meeting will take place on **Monday, September 29th, 2025**: please arrive promptly at **9am** in the Hexagone buildin, Room Hexalab at the first floor. On Friday much will be provided by CENTURI and on Monday, we will have a welcoming coffee between 9h and 9h30 and a coffee break between 10h and 10h20.
+Our first meeting will take place on **Monday, September 29th, 2025**: please arrive promptly at **9am** in the Hexagone buildin, Room Hexalab at the first floor.
 
 Each day will have a schedule roughly of the form:
 <table style="border-collapse: collapse; width: 100%;">
