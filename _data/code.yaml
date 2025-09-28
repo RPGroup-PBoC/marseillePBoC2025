@@ -16,7 +16,7 @@ Exercises:
 
   - script:
     title: Exercise 1
-    colab: #"http://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html"
+    colab: https://colab.research.google.com/drive/1A5IBvyHv9G4y5AYdWx3_JXKhvfC2kje9?usp=sharing
     description: >
           Exponential growth; numerical integration by Forward Euler
 
