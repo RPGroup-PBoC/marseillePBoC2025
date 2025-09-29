@@ -1,59 +1,61 @@
 Day 1:
- - pub:
-   title: Flagellar Length Control System, Testing a Simple Model Based on Intraﬂagellar Transport and Turnover
-   authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, andJoel L. Rosenbaum 
-   year: 2005
-   link: Marshall2005.pdf
-   description: >
-      Flagellum experiment. Cutting one of the two flagellum and watching it re-grow. One grows, the other one shrinks until reaching the same lenght.
- 
- - pub:
-   title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
-   authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
-   year: 1969
-   link: Rosenbaum1969.pdf
-   description: >
-      Original paper of the flagellum experiment.
+  - pub:
+      title: Flagellar Length Control System: Testing a Simple Model Based on Intraflagellar Transport and Turnover
+      authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, and Joel L. Rosenbaum
+      year: 2005
+      link: Marshall2005.pdf
+      description: >
+        Flagellum experiment: cut one of the two flagella and watch it regrow.
+        The cut flagellum grows while the uncut one shrinks, until both reach the same length.
 
- - pub:
-   title: Mouvement brownien et grandeurs moléculaires
-   authors: Jean Perrin
-   year: 1909
-   link: Perrin1909.pdf
-   description: >
-      Perrin's paper reports the Brownian motion of molecules in the atmosphere. He also studied their distribution as a function of height, which follows the Boltzmann distribution.
+  - pub:
+      title: Flagellar Elongation and Shortening in Chlamydomonas: The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
+      authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
+      year: 1969
+      link: Rosenbaum1969.pdf
+      description: >
+        Classic paper describing the flagellum regrowth/shortening experiment.
 
-- pub:
-  title: Investigations on the theory, the brownian movement
-  authors: Albert Einstein
-  year: 1906
-  link: Einstein1906.pdf
-  description: >
-      Einstein's version of the distribution of molecules with respect to height in the atmosphere.
+  - pub:
+      title: Mouvement brownien et grandeurs moléculaires
+      authors: Jean Perrin
+      year: 1909
+      link: Perrin1909.pdf
+      description: >
+        Reports Brownian motion and the altitude distribution of particles in air, consistent with the Boltzmann distribution.
 
-- pub:
-  title: Duration of urination does not change with body size
-  authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hua
-  year: 2014
-  link: Yang2014.pdf
-  description: >
-      Wild paper, everything is in the name. Mammal weighing more than 3kg have a constant peeing time (21+/-13s), because the flow rate out of the bladder (Q) is set my gravitational forces, this sets T~V/Q, with V the volume of the bladder and T the peeing time, pretty much constant. For smaller mammal, capillary forces and viscous forces make it more complicated.
+  - pub:
+      title: Investigations on the Theory of the Brownian Movement
+      authors: Albert Einstein
+      year: 1906
+      link: Einstein1906.pdf
+      description: >
+        Derivation of the vertical distribution of molecules in the atmosphere and key results on Brownian motion.
 
-- pub:
-  title: A study of tissue culture cells by electron microscopy
-  authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
-  year: 1944
-  link: Porter1944.pdf
-  description: >
-      Fondational paper for electron microscopy.
+  - pub:
+      title: Duration of urination does not change with body size
+      authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
+      year: 2014
+      link: Yang2014.pdf
+      description: >
+        Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
+        flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
 
- - pub:
-   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
-   authors: Sam Roberts.
-   year: 2023
-   link: Payne_Obituary.pdf
-   description: >
-      New York Times Obituary for influential biologist Roger Payne.
+  - pub:
+      title: A study of tissue culture cells by electron microscopy
+      authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
+      year: 1944
+      link: Porter1944.pdf
+      description: >
+        Foundational paper for electron microscopy of cells.
+
+  - pub:
+      title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
+      authors: Sam Roberts
+      year: 2023
+      link: Payne_Obituary.pdf
+      description: >
+        New York Times obituary for influential biologist Roger Payne.
 
  - pub:
    title: Physical Biology of the Cell YouTube Channel.
