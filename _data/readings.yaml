@@ -3,9 +3,49 @@ Day 1:
    title: Flagellar Length Control System, Testing a Simple Model Based on Intraﬂagellar Transport and Turnover
    authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, andJoel L. Rosenbaum 
    year: 2005
-   link:
+   link: Marshall2005.pdf
    description: >
       Flagellum experiment. Cutting one of the two flagellum and watching it re-grow. One grows, the other one shrinks until reaching the same lenght.
+ 
+ - pub:
+   title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
+   authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
+   year: 1969
+   link: Rosenbaum1969.pdf
+   description: >
+      Original paper of the flagellum experiment.
+
+ - pub:
+   title: Mouvement brownien et grandeurs moléculaires
+   authors: Jean Perrin
+   year: 1909
+   link: Perrin1909.pdf
+   description: >
+      Perrin's paper reports the Brownian motion of molecules in the atmosphere. He also studied their distribution as a function of height, which follows the Boltzmann distribution.
+
+- pub:
+   title: Investigations on the theory, the brownian movement
+   authors: Albert Einstein
+   year: 1906
+   link: Einstein1906.pdf
+   description: >
+      Einstein's version of the distribution of molecules with respect to height in the atmosphere.
+
+- pub:
+   title: Duration of urination does not change with body size
+   authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hua
+   year: 2014
+   link: Yang2014.pdf
+   description: >
+      Wild paper, everything is in the name. Mammal weighing more than 3kg have a constant peeing time (21+/-13s), because the flow rate out of the bladder (Q) is set my gravitational forces, this sets T~V/Q, with V the volume of the bladder and T the peeing time, pretty much constant. For smaller mammal, capillary forces and viscous forces make it more complicated.
+
+- pub:
+   title: A study of tissue culture cells by electron microscopy
+   authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
+   year: 1944
+   link: Porter1944.pdf
+   description: >
+      Fondational paper for electron microscopy.
 
  - pub:
    title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
