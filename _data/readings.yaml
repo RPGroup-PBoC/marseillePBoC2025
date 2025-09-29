@@ -24,27 +24,27 @@ Day 1:
       Perrin's paper reports the Brownian motion of molecules in the atmosphere. He also studied their distribution as a function of height, which follows the Boltzmann distribution.
 
 - pub:
-   title: Investigations on the theory, the brownian movement
-   authors: Albert Einstein
-   year: 1906
-   link: Einstein1906.pdf
-   description: >
+  title: Investigations on the theory, the brownian movement
+  authors: Albert Einstein
+  year: 1906
+  link: Einstein1906.pdf
+  description: >
       Einstein's version of the distribution of molecules with respect to height in the atmosphere.
 
 - pub:
-   title: Duration of urination does not change with body size
-   authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hua
-   year: 2014
-   link: Yang2014.pdf
-   description: >
+  title: Duration of urination does not change with body size
+  authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hua
+  year: 2014
+  link: Yang2014.pdf
+  description: >
       Wild paper, everything is in the name. Mammal weighing more than 3kg have a constant peeing time (21+/-13s), because the flow rate out of the bladder (Q) is set my gravitational forces, this sets T~V/Q, with V the volume of the bladder and T the peeing time, pretty much constant. For smaller mammal, capillary forces and viscous forces make it more complicated.
 
 - pub:
-   title: A study of tissue culture cells by electron microscopy
-   authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
-   year: 1944
-   link: Porter1944.pdf
-   description: >
+  title: A study of tissue culture cells by electron microscopy
+  authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
+  year: 1944
+  link: Porter1944.pdf
+  description: >
       Fondational paper for electron microscopy.
 
  - pub:
