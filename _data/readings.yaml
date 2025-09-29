@@ -48,12 +48,12 @@ Day 1:
   #     link: Porter1944.pdf
   #     description: >
   #       Foundational paper for electron microscopy of cells.
-  - pub:
-    title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
-    authors: Sam Roberts
-    year: 2023
-    link: Payne_Obituary.pdf
-    description: >
+ - pub:
+   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
+   authors: Sam Roberts
+   year: 2023
+   link: Payne_Obituary.pdf
+   description: >
         New York Times obituary for influential biologist Roger Payne.
 
  - pub:
