@@ -1,54 +1,53 @@
 Day 1:
-  - pub:
-      title: Flagellar Length Control System: Testing a Simple Model Based on Intraflagellar Transport and Turnover
-      authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, and Joel L. Rosenbaum
-      year: 2005
-      link: Marshall2005.pdf
-      description: >
-        Flagellum experiment: cut one of the two flagella and watch it regrow.
-        The cut flagellum grows while the uncut one shrinks, until both reach the same length.
+  # - pub:
+  #     title: Flagellar Length Control System: Testing a Simple Model Based on Intraflagellar Transport and Turnover
+  #     authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, and Joel L. Rosenbaum
+  #     year: 2005
+  #     link: Marshall2005.pdf
+  #     description: >
+  #       Flagellum experiment: cut one of the two flagella and watch it regrow.
+  #       The cut flagellum grows while the uncut one shrinks, until both reach the same length.
 
-  - pub:
-      title: Flagellar Elongation and Shortening in Chlamydomonas: The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
-      authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
-      year: 1969
-      link: Rosenbaum1969.pdf
-      description: >
-        Classic paper describing the flagellum regrowth/shortening experiment.
+  # - pub:
+  #     title: Flagellar Elongation and Shortening in Chlamydomonas: The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
+  #     authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
+  #     year: 1969
+  #     link: Rosenbaum1969.pdf
+  #     description: >
+  #       Classic paper describing the flagellum regrowth/shortening experiment.
 
-  - pub:
-      title: Mouvement brownien et grandeurs moléculaires
-      authors: Jean Perrin
-      year: 1909
-      link: Perrin1909.pdf
-      description: >
-        Reports Brownian motion and the altitude distribution of particles in air, consistent with the Boltzmann distribution.
+  # - pub:
+  #     title: Mouvement brownien et grandeurs moléculaires
+  #     authors: Jean Perrin
+  #     year: 1909
+  #     link: Perrin1909.pdf
+  #     description: >
+  #       Reports Brownian motion and the altitude distribution of particles in air, consistent with the Boltzmann distribution.
 
-  - pub:
-      title: Investigations on the Theory of the Brownian Movement
-      authors: Albert Einstein
-      year: 1906
-      link: Einstein1906.pdf
-      description: >
-        Derivation of the vertical distribution of molecules in the atmosphere and key results on Brownian motion.
+  # - pub:
+  #     title: Investigations on the Theory of the Brownian Movement
+  #     authors: Albert Einstein
+  #     year: 1906
+  #     link: Einstein1906.pdf
+  #     description: >
+  #       Derivation of the vertical distribution of molecules in the atmosphere and key results on Brownian motion.
 
-  - pub:
-      title: Duration of urination does not change with body size
-      authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
-      year: 2014
-      link: Yang2014.pdf
-      description: >
-        Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
-        flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
+  # - pub:
+  #     title: Duration of urination does not change with body size
+  #     authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
+  #     year: 2014
+  #     link: Yang2014.pdf
+  #     description: >
+  #       Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
+  #       flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
 
-  - pub:
-      title: A study of tissue culture cells by electron microscopy
-      authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
-      year: 1944
-      link: Porter1944.pdf
-      description: >
-        Foundational paper for electron microscopy of cells.
-
+  # - pub:
+  #     title: A study of tissue culture cells by electron microscopy
+  #     authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
+  #     year: 1944
+  #     link: Porter1944.pdf
+  #     description: >
+  #       Foundational paper for electron microscopy of cells.
   - pub:
       title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
       authors: Sam Roberts
@@ -64,6 +63,7 @@ Day 1:
    link: PBOC_url.pdf
    description: >
       Rob's collection of pre-recorded vignettes. (Note: clicking the link opens a pdf containing a followable url <https://www.youtube.com/@physicalbiologyofthecellca307/videos>)
+
  - pub:
    title: BioNumbers.
    authors: Milo Lab.
