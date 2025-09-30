@@ -22,7 +22,7 @@ Exercises:
 
   - script:
     title: Exercise 2
-    colab: # integration: "https://colab.research.google.com/drive/18hPyTvop_GamA_Diiaqa-Wb1nqkJfL10?usp=sharing" 
+    colab: https://colab.research.google.com/drive/1qmajaP2Fr9NU7YgMBfutmag7iKvgk1H7?usp=sharing
     description: >
           mRNA dynamics: mean trajectories and full count distributions 
           
