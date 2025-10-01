@@ -81,6 +81,15 @@ Day 1:
       "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
 Day 2:
+
+ - pub:
+   title: "An AI system to help scientists write expert-level empirical software"
+   authors: Eser Aygün*, Anastasiya Belyaeva*, Gheorghe Comanici*, Marc Coram*, Hao Cui*, Jake Garrison*, Renee Johnston*, Anton Kast*, Cory Y. McLean*, Peter Norgaard*, Zahra Shamsi*, David Smalling*, James Thompson*, Subhashini Venugopalan*, Brian P. Williams*, Chujun He**, Sarah Martinson**, Martyna Plomecka**, Lai Wei, Yuchen Zhou, Qian-Ze Zhu**, Matthew Abraham, Erica Brand, Anna Bulanova, Jeffrey A. Cardille, Chris Co, Scott Ellsworth, Grace Joseph, Malcolm Kane, Ryan Krueger**, Johan Kartiwa, Dan Liebling, Jan-Matthis Lueckmann, Paul Raccuglia, Xuefei (Julie) Wang**, Katherine Chou, James Manyika, Yossi Matias, John C. Platt, Lizzie Dorfman, Shibl Mourad‡, and Michael P. Brenner
+   year: 2025
+   link: Ayguen2025.pdf
+   description: >
+      Everything is in the title.
+
  - pub:
    title: "In Memoriam: Jacques Monod (1910–1976)."
    authors: Agnes Ullmann.
@@ -114,6 +123,29 @@ Day 2:
 
 Day 3:
  - pub:
+   title: "Heat Oscillations Driven by the Embryonic Cell Cycle Reveal the Energetic Costs of Signaling"
+   authors: Jonathan Rodenfels, Karla M. Neugebauer, Jonathon Howard
+   year: 2019
+   link: Rodenfels2019.pdf
+   description: >
+      Energy dissipation during development.
+
+ - pub:
+   title: "Principles of gene regulation quantitatively connectDNA to RNA and proteins in bacteria"
+   authors: Rohan Balakrishnan, Matteo Mori, Igor Segota, Zhongge Zhang, Ruedi Aebersold,Christina Ludwig, Terence Hwa
+   year: 2021
+   link: Balakrishnan2021.pdf
+   description: >
+      
+ - pub:
+   title: "Search for the Wreckage of Air France Flight AF 447"
+   authors: Lawrence D. Stone, Colleen M. Keller, Thomas M. Kratzke and Johan P. Strumpfer
+   year: 2014
+   link: Stone2014.pdf
+   description: >
+        Shows how Bayesian analysis pinpointed AF447’s wreckage, found within a week.
+
+ - pub:
    title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
    authors: Bakshi et al.
    year: 2012
@@ -126,6 +158,8 @@ Day 3:
    year: 2018
    link: Goldstein2018.pdf
    description: >
+
+
 
  - pub:
    title: An Application of the Poisson Distribution
