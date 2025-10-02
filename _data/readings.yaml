@@ -158,9 +158,7 @@ Day 3:
    year: 2018
    link: Goldstein2018.pdf
    description: >
-
-
-
+   
  - pub:
    title: An Application of the Poisson Distribution
    authors: R. D. Clarke
@@ -192,6 +190,12 @@ Day 3:
    description: >
 
 Day 4:
+  - pub:
+   title: "Statistics Lectures"
+   authors: Joe Blitzstein
+   year: 2013
+   description: Youtube Videos of Statistics Lectures of Joe Blitzstein. This is the link (<https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>)
+   
  - pub:
    title: "The usefulness of useless knowledge"
    authors: Abraham Flexner.
