@@ -39,7 +39,7 @@ Exercises:
           
   - script:
     title: Exercise 5 - Day 4
-    colab: https://colab.research.google.com/drive/1YmTLZKcFdy43z53_izHII1ikvYME8guu?usp=sharing
+    colab: "https://colab.research.google.com/drive/1YmTLZKcFdy43z53_izHII1ikvYME8guu?usp=sharing"
     description: >
           Buri experiment with flies - effect of genetic drift
           
