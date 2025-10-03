@@ -146,6 +146,15 @@ Day 4:
    link: Gomez-Gonzalez2020.pdf
    description: >
         Tissue Mechanics.  
+Day 5:
+ - pub:
+   title: "Scientist: Four golden lessons"
+   authors: Steven Weinberg
+   year: 2003
+   link: Weinberg2003.pdf
+   description: >
+        Swim in the rough scientific waters.
+
 
 # - pub:
 #   title: More Is Different.
