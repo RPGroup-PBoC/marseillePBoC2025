@@ -147,10 +147,16 @@ Day 4:
    description: >
         Tissue Mechanics.  
 
-# - extra:
-#   exurl: https://youtu.be/9P5aJ5GVpP8
-#   extitle: Molecules as documents of evolutionary history (16:07)
-#   exdesc: This vignette describes the use of DNA sequences as a tool for studying the history of life.
+- extra:
+  exurl: https://bebi103b.github.io/index.html
+  extitle: Course on Bayesian Inference 
+  exdesc: Website of a Bayesian Inference class taught by Justin Bois at Caltech
+
+- extra:
+  exurl: https://distribution-explorer.github.io/index.html
+  extitle: Distribution Explorer
+  exdesc: Website regrouping most of the common probability distributions, their properties and physical description by Justin Bois at Caltech
+
 # - pub:
 #   title: More Is Different.
 #   authors: Phil Anderson.
