@@ -139,13 +139,14 @@ Day 4:
    description: >
         Phase transition in biology. 
 
-  - pub:
+ - pub:
    title: "Measuring mechanical stress in living tissues"
    authors: Manuel Gómez-González, Ernest Latorre, Marino Arroyo and Xavier Trepat
    year: 2020
    link: Gomez-Gonzalez2020.pdf
    description: >
         Tissue Mechanics.  
+
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
 #   extitle: Molecules as documents of evolutionary history (16:07)
