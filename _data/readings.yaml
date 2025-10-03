@@ -48,13 +48,6 @@ Day 1:
    link: Porter1944.pdf
    description: >
         Foundational paper for electron microscopy of cells.
- - pub:
-   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
-   authors: Sam Roberts
-   year: 2023
-   link: Payne_Obituary.pdf
-   description: >
-        New York Times obituary for influential biologist Roger Payne.
 
  - pub:
    title: Physical Biology of the Cell YouTube Channel.
@@ -89,39 +82,7 @@ Day 2:
    link: Ayguen2025.pdf
    description: >
       Everything is in the title.
-
- - pub:
-   title: In Memoriam: Jacques Monod (1910–1976).
-   authors: Agnes Ullmann.
-   year: 2011
-   link: MonodMemorium.pdf
-   description: >
-      A memorium for Jacques Monod and his musings upon the secret of life.
-      
- - pub:
-   title: Nothing in Biology makes Sense but in the Light of Evolution
-   authors: Theodosius Dobzhansky
-   year: 1972
-   link: nothing_sense.pdf
-   description: >
    
- - pub:
-   title: Models in biology, accurate descriptions of our pathetic thinking
-   authors: Jeremy Gunawardena
-   year: 2014
-   link: Gunawardena2014.pdf
-   description: >
-      A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
-      
- - pub:
-   title: "Efficient Estimation of Word Representations in Vector Space"
-   authors: Mikolov et al.
-   year: 2013
-   link: Mikolovword2vec.pdf
-   description: >
-   
-  
-
 Day 3:
  - pub:
    title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
@@ -136,6 +97,7 @@ Day 3:
    year: 2018
    link: Goldstein2018.pdf
    description: >
+   
 
  - pub:
    title: An Application of the Poisson Distribution
