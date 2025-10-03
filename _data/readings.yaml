@@ -85,49 +85,27 @@ Day 2:
    
 Day 3:
  - pub:
-   title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
-   authors: Bakshi et al.
-   year: 2012
-   link: Bakshi2012.pdf
+   title: "Heat Oscillations Driven by the Embryonic Cell Cycle Reveal the Energetic Costs of Signaling"
+   authors: Jonathan Rodenfels, Karla M. Neugebauer, Jonathon Howard
+   year: 2019
+   link: Rodenfels2019.pdf
    description: >
-   
- - pub:
-   title: "Are theoretical results 'Results'?"
-   authors: "Raymond E Goldstein"
-   year: 2018
-   link: Goldstein2018.pdf
-   description: >
-   
+      Energy dissipation during development.
 
  - pub:
-   title: An Application of the Poisson Distribution
-   authors: R. D. Clarke
-   year: 1946
-   link: london_bombs.pdf
+   title: "Principles of gene regulation quantitatively connectDNA to RNA and proteins in bacteria"
+   authors: Rohan Balakrishnan, Matteo Mori, Igor Segota, Zhongge Zhang, Ruedi Aebersold,Christina Ludwig, Terence Hwa
+   year: 2021
+   link: Balakrishnan2021.pdf
    description: >
-     A study of how often neighborhoods in London were hit by bombs during the second world war.
-
+      
  - pub:
-   title: Migration of Proteins along the Axons of the Sciatic Nerve
-   authors: Droz et al.
-   year: 1957
-   link: Droz1957.pdf
+   title: "Search for the Wreckage of Air France Flight AF 447"
+   authors: Lawrence D. Stone, Colleen M. Keller, Thomas M. Kratzke and Johan P. Strumpfer
+   year: 2014
+   link: Stone2014.pdf
    description: >
-   
- - pub:
-   title: "Robert Brown's Discovery of Brownian Motion"
-   authors: Robert Brown
-   year: 1828
-   link: Brown1828.pdf
-   description: >
-      "A brief account of microscopical observations made in the months of June, July and August 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies"
-
- - pub:
-   title: "Design Principles of Length Control of Cytoskeletal Structures"
-   authors: Mohapatra et al.
-   year: 2016
-   link: Mohapatra2016.pdf
-   description: >
+        Shows how Bayesian analysis pinpointed AF447’s wreckage, found within a week.
 
 Day 4:
  - pub:
