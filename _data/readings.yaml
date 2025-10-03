@@ -109,33 +109,12 @@ Day 3:
 
 Day 4:
  - pub:
-   title: "The usefulness of useless knowledge"
-   authors: Abraham Flexner.
-   year: 1939
-   link: useful_useless.pdf
+   title: "Statistics Lectures"
+   authors: Joe Blitzstein
+   year: 2013
    description: >
+        Youtube Videos of Statistics Lectures of Joe Blitzstein. This is the link (<https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>)
    
- - pub:
-   title: "Allan Wilson: Evolutionary"
-   authors: nzonscreen.
-   year: 2008
-   link: Allan_Wilson.pdf
-   description: >
-     A documentary on the revolutionary evolutionary biologies, Allan Wilson. (<https://www.nzonscreen.com/title/allan-wilson-evolutionary-2008/overview>)
-     
- - pub:
-   title: "Patterns of predation in a diverse predator–prey system"
-   authors: Sinclair et al.
-   year: 2003
-   link: sinclair2003.pdf
-   description: >
-   
- - pub:
-   title: "All I Really Need To Know"
-   authors: David Stern.
-   year: 1993
-   link: stern.pdf
-   description: >
    
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
