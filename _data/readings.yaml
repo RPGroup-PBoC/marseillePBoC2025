@@ -1,60 +1,11 @@
 Day 1:
  - pub:
-   title: Flagellar Length Control System, Testing a Simple Model Based on Intraflagellar Transport and Turnover
-   authors: Wallace F. Marshall, Hongmin Qin, Monica Rodrigo Brenni, and Joel L. Rosenbaum
-   year: 2005
-   link: Marshall2005.pdf
-   description: >
-        Flagellum experiment: cut one of the two flagella and watch it regrow.
-        The cut flagellum grows while the uncut one shrinks, until both reach the same length.
-
- - pub:
-   title: Flagellar Elongation and Shortening in Chlamydomonas, The Use of Cycloheximide and Colchicine to Study the Synthesis and Assembly of Flagellar Proteins
-   authors: Joel L. Rosenbaum, John E. Moulder, and David L. Ringo
-   year: 1969
-   link: Rosenbaum1969.pdf
-   description: >
-        Classic paper describing the flagellum regrowth/shortening experiment.
-
- - pub:
-   title: Mouvement brownien et grandeurs moléculaires
-   authors: Jean Perrin
-   year: 1909
-   link: Perrin1909.pdf
-   description: >
-        Reports Brownian motion and the altitude distribution of particles in air, consistent with the Boltzmann distribution.
-
- - pub:
-   title: Investigations on the Theory of the Brownian Movement
-   authors: Albert Einstein
-   year: 1906
-   link: Einstein1906.pdf
-   description: >
-        Derivation of the vertical distribution of molecules in the atmosphere and key results on Brownian motion.
-
- - pub:
-   title: Duration of urination does not change with body size
-   authors: Patricia J. Yang, Jonathan Pham, Jerome Choo, and David L. Hu
-   year: 2014
-   link: Yang2014.pdf
-   description: >
-        Mammals heavier than ~3 kg have an approximately constant urination time (~21 ± 13 s):
-        flow rate is gravity-dominated so T ≈ V/Q. For smaller mammals, capillary and viscous forces complicate the scaling.
-
- - pub:
-   title: A study of tissue culture cells by electron microscopy
-   authors: Keith R. Porter, Albert Claude, and Ernest F. Fullam
-   year: 1944
-   link: Porter1944.pdf
-   description: >
-        Foundational paper for electron microscopy of cells.
- - pub:
-   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88
-   authors: Sam Roberts
+   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
+   authors: Sam Roberts.
    year: 2023
    link: Payne_Obituary.pdf
    description: >
-        New York Times obituary for influential biologist Roger Payne.
+      New York Times Obituary for influential biologist Roger Payne.
 
  - pub:
    title: Physical Biology of the Cell YouTube Channel.
@@ -63,7 +14,6 @@ Day 1:
    link: PBOC_url.pdf
    description: >
       Rob's collection of pre-recorded vignettes. (Note: clicking the link opens a pdf containing a followable url <https://www.youtube.com/@physicalbiologyofthecellca307/videos>)
-
  - pub:
    title: BioNumbers.
    authors: Milo Lab.
@@ -81,17 +31,8 @@ Day 1:
       "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
 Day 2:
-
  - pub:
-   title: An AI system to help scientists write expert-level empirical software
-   authors: Eser Aygün*, Anastasiya Belyaeva*, Gheorghe Comanici*, Marc Coram*, Hao Cui*, Jake Garrison*, Renee Johnston*, Anton Kast*, Cory Y. McLean*, Peter Norgaard*, Zahra Shamsi*, David Smalling*, James Thompson*, Subhashini Venugopalan*, Brian P. Williams*, Chujun He, Sarah Martinson, Martyna Plomecka, Lai Wei, Yuchen Zhou, Qian-Ze Zhu, Matthew Abraham, Erica Brand, Anna Bulanova, Jeffrey A. Cardille, Chris Co, Scott Ellsworth, Grace Joseph, Malcolm Kane, Ryan Krueger, Johan Kartiwa, Dan Liebling, Jan-Matthis Lueckmann, Paul Raccuglia, Xuefei (Julie) Wang, Katherine Chou, James Manyika, Yossi Matias, John C. Platt, Lizzie Dorfman, Shibl Mourad, and Michael P. Brenner
-   year: 2025
-   link: Ayguen2025.pdf
-   description: >
-      Everything is in the title.
-
- - pub:
-   title: In Memoriam: Jacques Monod (1910–1976).
+   title: "In Memoriam: Jacques Monod (1910–1976)."
    authors: Agnes Ullmann.
    year: 2011
    link: MonodMemorium.pdf
@@ -106,7 +47,7 @@ Day 2:
    description: >
    
  - pub:
-   title: Models in biology, accurate descriptions of our pathetic thinking
+   title: "Models in biology: \"accurate descriptions of our pathetic thinking\""
    authors: Jeremy Gunawardena
    year: 2014
    link: Gunawardena2014.pdf
@@ -123,29 +64,6 @@ Day 2:
 
 Day 3:
  - pub:
-   title: "Heat Oscillations Driven by the Embryonic Cell Cycle Reveal the Energetic Costs of Signaling"
-   authors: Jonathan Rodenfels, Karla M. Neugebauer, Jonathon Howard
-   year: 2019
-   link: Rodenfels2019.pdf
-   description: >
-      Energy dissipation during development.
-
- - pub:
-   title: "Principles of gene regulation quantitatively connectDNA to RNA and proteins in bacteria"
-   authors: Rohan Balakrishnan, Matteo Mori, Igor Segota, Zhongge Zhang, Ruedi Aebersold,Christina Ludwig, Terence Hwa
-   year: 2021
-   link: Balakrishnan2021.pdf
-   description: >
-      
- - pub:
-   title: "Search for the Wreckage of Air France Flight AF 447"
-   authors: Lawrence D. Stone, Colleen M. Keller, Thomas M. Kratzke and Johan P. Strumpfer
-   year: 2014
-   link: Stone2014.pdf
-   description: >
-        Shows how Bayesian analysis pinpointed AF447’s wreckage, found within a week.
-
- - pub:
    title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
    authors: Bakshi et al.
    year: 2012
@@ -158,7 +76,7 @@ Day 3:
    year: 2018
    link: Goldstein2018.pdf
    description: >
-   
+
  - pub:
    title: An Application of the Poisson Distribution
    authors: R. D. Clarke
@@ -190,12 +108,6 @@ Day 3:
    description: >
 
 Day 4:
-  - pub:
-   title: "Statistics Lectures"
-   authors: Joe Blitzstein
-   year: 2013
-   description: Youtube Videos of Statistics Lectures of Joe Blitzstein. This is the link (<https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>)
-   
  - pub:
    title: "The usefulness of useless knowledge"
    authors: Abraham Flexner.
