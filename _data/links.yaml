@@ -1,10 +1,7 @@
+- title: Course on Bayesian Inference
+  address: "https://bebi103b.github.io/index.html"
+  description: Website of a Bayesian Inference class taught by Justin Bois at Caltech
 
-- link:
- title: Course on Bayesian Inference . 
- address: "https://bebi103b.github.io/index.html"
- description: Website of a Bayesian Inference class taught by Justin Bois at Caltech
-
-- link:
- title: Distribution Explorer. 
- address: "https://distribution-explorer.github.io/index.html"
- description: Website regrouping most of the common probability distributions, their properties and physical description by Justin Bois at Caltech.
+- title: Distribution Explorer
+  address: "https://distribution-explorer.github.io/index.html"
+  description: Website regrouping most of the common probability distributions, their properties and physical description by Justin Bois at Caltech.
