@@ -1,10 +1,10 @@
 
-#- link:
-#  title: VIPERdb. 
-#  address: "http://viperdb.scripps.edu/"
-#  description: VIPERdb houses structural analysis for icosahedral virus capsid structures. They have renderings online and computational analyses. Mentioned in lecture 1.
+- link:
+ title: Course on Bayesian Inference . 
+ address: "https://bebi103b.github.io/index.html"
+ description: Website of a Bayesian Inference class taught by Justin Bois at Caltech
 
-#- link:
-#  title: Nextstrain. 
-#  address: "https://nextstrain.org/ncov"
-#  description: Tracking SARS-CoV-2 genomic variations by location.
+- link:
+ title: Distribution Explorer. 
+ address: "https://distribution-explorer.github.io/index.html"
+ description: Website regrouping most of the common probability distributions, their properties and physical description by Justin Bois at Caltech.
