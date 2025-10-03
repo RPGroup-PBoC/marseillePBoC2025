@@ -114,8 +114,38 @@ Day 4:
    year: 2013
    description: >
         Youtube Videos of Statistics Lectures of Joe Blitzstein. This is the link (<https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo>)
-   
-   
+
+ - pub:
+   title: "Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation"
+   authors: Clifford P. Brangwynne, Christian R. Eckmann, David S. Courson, Agata Rybarska, Carsten Hoege, Jöbin Gharakhani, Frank Jülicher, Anthony A. Hyman
+   year: 2009
+   link: Brangwynne2009.pdf
+   description: >
+        Phase transition in biology. 
+
+ - pub:
+   title: "Local thermodynamics govern formation and dissolution of Caenorhabditis elegans P granule condensates"
+   authors: Anatol W. Fritsch, Moritz Kreysinga, Andres F. Diaz-Delgadillob, Omar Adame-Aranac, Mark Leavera, Anthony A. Hymana, Frank Jülicher, Carsten Hoegea, Matthaus Mittasch and Christoph A. Weber
+   year: 2021
+   link: Fritsch2021.pdf
+   description: >
+        Phase transition in biology. 
+
+ - pub:
+   title: "Polymer physics of intracellular phase transitions"
+   authors: Clifford P. Brangwynne, Peter Tompa and Rohit V. Pappu
+   year: 2015
+   link: Brangwynne2021.pdf
+   description: >
+        Phase transition in biology. 
+
+  - pub:
+   title: "Measuring mechanical stress in living tissues"
+   authors: Manuel Gómez-González, Ernest Latorre, Marino Arroyo and Xavier Trepat
+   year: 2020
+   link: Gomez-Gonzalez2020.pdf
+   description: >
+        Tissue Mechanics.  
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
 #   extitle: Molecules as documents of evolutionary history (16:07)
