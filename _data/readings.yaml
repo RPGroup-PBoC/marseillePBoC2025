@@ -83,7 +83,7 @@ Day 1:
 Day 2:
 
  - pub:
-   title: "An AI system to help scientists write expert-level empirical software"
+   title: An AI system to help scientists write expert-level empirical software
    authors: Eser Aygün*, Anastasiya Belyaeva*, Gheorghe Comanici*, Marc Coram*, Hao Cui*, Jake Garrison*, Renee Johnston*, Anton Kast*, Cory Y. McLean*, Peter Norgaard*, Zahra Shamsi*, David Smalling*, James Thompson*, Subhashini Venugopalan*, Brian P. Williams*, Chujun He, Sarah Martinson, Martyna Plomecka, Lai Wei, Yuchen Zhou, Qian-Ze Zhu, Matthew Abraham, Erica Brand, Anna Bulanova, Jeffrey A. Cardille, Chris Co, Scott Ellsworth, Grace Joseph, Malcolm Kane, Ryan Krueger, Johan Kartiwa, Dan Liebling, Jan-Matthis Lueckmann, Paul Raccuglia, Xuefei (Julie) Wang, Katherine Chou, James Manyika, Yossi Matias, John C. Platt, Lizzie Dorfman, Shibl Mourad, and Michael P. Brenner
    year: 2025
    link: Ayguen2025.pdf
@@ -91,7 +91,7 @@ Day 2:
       Everything is in the title.
 
  - pub:
-   title: "In Memoriam: Jacques Monod (1910–1976)."
+   title: In Memoriam: Jacques Monod (1910–1976).
    authors: Agnes Ullmann.
    year: 2011
    link: MonodMemorium.pdf
@@ -106,7 +106,7 @@ Day 2:
    description: >
    
  - pub:
-   title: "Models in biology: \"accurate descriptions of our pathetic thinking\""
+   title: Models in biology, accurate descriptions of our pathetic thinking
    authors: Jeremy Gunawardena
    year: 2014
    link: Gunawardena2014.pdf
